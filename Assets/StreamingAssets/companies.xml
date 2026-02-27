@@ -1,0 +1,72 @@
+<DocumentElement>
+  <companies>
+    <CompanyName>苹果</CompanyName>
+    <CompanyType>A</CompanyType>
+    <HasCards />
+    <IsSafe>0</IsSafe>
+    <RemainStock>30</RemainStock>
+    <price>800</price>
+    <IsLife>0</IsLife>
+    <useMaterialIndex>4</useMaterialIndex>
+  </companies>
+  <companies>
+    <CompanyName>华为</CompanyName>
+    <CompanyType>A</CompanyType>
+    <HasCards />
+    <IsSafe>0</IsSafe>
+    <RemainStock>30</RemainStock>
+    <price>800</price>
+    <IsLife>0</IsLife>
+    <useMaterialIndex>5</useMaterialIndex>
+  </companies>
+  <companies>
+    <CompanyName>三星</CompanyName>
+    <CompanyType>B</CompanyType>
+    <HasCards />
+    <IsSafe>0</IsSafe>
+    <RemainStock>30</RemainStock>
+    <price>800</price>
+    <IsLife>0</IsLife>
+    <useMaterialIndex>6</useMaterialIndex>
+  </companies>
+  <companies>
+    <CompanyName>阿里</CompanyName>
+    <CompanyType>B</CompanyType>
+    <HasCards />
+    <IsSafe>0</IsSafe>
+    <RemainStock>30</RemainStock>
+    <price>800</price>
+    <IsLife>0</IsLife>
+    <useMaterialIndex>7</useMaterialIndex>
+  </companies>
+  <companies>
+    <CompanyName>棉北集团</CompanyName>
+    <CompanyType>C</CompanyType>
+    <HasCards />
+    <IsSafe>0</IsSafe>
+    <RemainStock>30</RemainStock>
+    <price>800</price>
+    <IsLife>0</IsLife>
+    <useMaterialIndex>8</useMaterialIndex>
+  </companies>
+  <companies>
+    <CompanyName>南方电网</CompanyName>
+    <CompanyType>C</CompanyType>
+    <HasCards />
+    <IsSafe>0</IsSafe>
+    <RemainStock>30</RemainStock>
+    <price>800</price>
+    <IsLife>0</IsLife>
+    <useMaterialIndex>9</useMaterialIndex>
+  </companies>
+  <companies>
+    <CompanyName>邮政</CompanyName>
+    <CompanyType>C</CompanyType>
+    <HasCards />
+    <IsSafe>0</IsSafe>
+    <RemainStock>40</RemainStock>
+    <price>800</price>
+    <IsLife>0</IsLife>
+    <useMaterialIndex>11</useMaterialIndex>
+  </companies>
+</DocumentElement>

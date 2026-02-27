@@ -1,0 +1,32 @@
+<DocumentElement>
+  <companies>
+    <CompanyName>苹果</CompanyName>
+    <CompanyType>A</CompanyType>
+    <HasCards />
+    <IsSafe>0</IsSafe>
+    <RemainStock>30</RemainStock>
+    <price>800</price>
+    <IsLife>1</IsLife>
+    <useMaterialIndex>4</useMaterialIndex>
+  </companies>
+  <companies>
+    <CompanyName>华为</CompanyName>
+    <CompanyType>B</CompanyType>
+    <HasCards />
+    <IsSafe>1</IsSafe>
+    <RemainStock>30</RemainStock>
+    <price>800</price>
+    <IsLife>1</IsLife>
+    <useMaterialIndex>5</useMaterialIndex>
+  </companies>
+  <companies>
+    <CompanyName>三星</CompanyName>
+    <CompanyType>B</CompanyType>
+    <HasCards />
+    <IsSafe>1</IsSafe>
+    <RemainStock>30</RemainStock>
+    <price>800</price>
+    <IsLife>0</IsLife>
+    <useMaterialIndex>5</useMaterialIndex>
+  </companies>
+</DocumentElement>

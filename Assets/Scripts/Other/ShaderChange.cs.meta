@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 58b6ed05aff755b4c97abb1e406cc77d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - green: {fileID: 2100000, guid: f8f73c3213828e847819be7b6896fb47, type: 2}
+  - blue: {fileID: 2100000, guid: 16711f3497f18d94d9fd36ad2a81a130, type: 2}
+  - red: {fileID: 2100000, guid: 053d36dd5960fe74ab9d638de8f3ba7a, type: 2}
+  - greenyellow: {fileID: 2100000, guid: 7a4af6333c4901f4390c5719e6a8df35, type: 2}
+  - orange: {fileID: 2100000, guid: 27ddf105ba2bee24195ab6dbed1c908b, type: 2}
+  - purple: {fileID: 2100000, guid: 997abe8de6eddab469ca88757aa922b4, type: 2}
+  - white: {fileID: 2100000, guid: cc250a30997cc42318e82a6ec42171db, type: 2}
+  - yellow: {fileID: 2100000, guid: 18b387fd08adefe46b39c02316ad0cdd, type: 2}
+  - gray: {fileID: 2100000, guid: 2ce9cc67e49b31f40b03ebff7c4ef04f, type: 2}
+  - lightGray: {fileID: 2100000, guid: 181d4994a4f9d504ab3fd3855b339df6, type: 2}
+  - AliceBlue: {fileID: 2100000, guid: a54e4106d6f4e9b4a96f5cf798a9c5c3, type: 2}
+  - black: {fileID: 2100000, guid: e3cc6fb67989f40469f0f39fb5446f89, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
