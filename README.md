@@ -4,4 +4,4 @@
 最后根据总资产的多少进行排名。
 下载链接：
 
-https://github.com/kaifudeng/RichGame/releases/download/rich/rich0.2Android.apk
+https://github.com/kaifudeng/RichGame/releases/download/richV0.2.1/rich0.2Android.apk
