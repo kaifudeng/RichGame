@@ -2,5 +2,6 @@
 去年春节时和朋友玩的一个桌游，感觉逻辑挺简单的，就试着做了一下，没想到拖了一年才做完。
 游戏规则大概是通过在一个10*10的平台上抢夺地盘，创建公司购买股票，大公司会并购小公司，地盘越大公司股价会越高。
 最后根据总资产的多少进行排名。
-下载链接：https://github.com/kaifudeng/RichGame/releases/download/v0.2.0/rich0.2Android.apk
+下载链接：
 
+https://github.com/kaifudeng/RichGame/releases/download/rich/rich0.2Android.apk
