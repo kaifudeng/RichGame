@@ -128,7 +128,7 @@ public class RoomPlayer : NetworkRoomPlayer
 
     void DrawPlayerReadyState()
     {
-        GUILayout.BeginArea(new Rect(20f + (index * 100), 200f, 90f, 130f));
+        GUILayout.BeginArea(new Rect(20f + (index * 100), 100f, 180f, 260f));
 
         GUILayout.Label(playerName);
 
@@ -137,7 +137,7 @@ public class RoomPlayer : NetworkRoomPlayer
         else
             GUILayout.Label("准备中…");
 
-        if (((isServer && index > 0) || isServerOnly) && GUILayout.Button("ɾ  "))
+        if (((isServer && index > 0) || isServerOnly) && GUILayout.Button("准备中…"))
         {
             // This button only shows on the Host for all players other than the Host
             // Host and Players can't remove themselves (stop the client instead)
@@ -152,7 +152,7 @@ public class RoomPlayer : NetworkRoomPlayer
     {
         if (NetworkClient.active && isLocalPlayer)
         {
-            GUILayout.BeginArea(new Rect(20f, 300f, 120f, 20f));
+            GUILayout.BeginArea(new Rect(20f, 300f, 240f, 40f));
 
             if (readyToBegin)
             {

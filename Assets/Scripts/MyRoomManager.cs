@@ -350,9 +350,22 @@ public class MyRoomManager : NetworkRoomManager
 
     public override void OnGUI()
     {
-        base.OnGUI();
+       
+        if (!showRoomGUI)
+            return;
 
-        if (allPlayersReady && showStartButton && GUI.Button(new Rect(150, 300, 120, 20), "开始游戏"))
+        if (NetworkServer.active && Utils.IsSceneActive(GameplayScene))
+        {
+            GUILayout.BeginArea(new Rect(Screen.width - 150f, 10f, 140f, 30f));
+            if (GUILayout.Button("Return to Room"))
+                ServerChangeScene(RoomScene);
+            GUILayout.EndArea();
+        }
+
+        if (Utils.IsSceneActive(RoomScene))
+            GUI.Box(new Rect(10f, 10f, 600f, 300f), "PLAYERS");
+
+        if (allPlayersReady && showStartButton && GUI.Button(new Rect(150, 450, 240, 80), "开始游戏"))
         {
             // set to false to hide it in the game scene
             showStartButton = false;
